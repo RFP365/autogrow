@@ -44,10 +44,9 @@
                 resize.call(elem[0]);
             }
         });
-        opts.context
-            .on('keyup paste', selector, resize)
-        ;
-    
+
+        $(this).on('keyup paste', resize);
+
         function resize (e){
             var box = $(this)
                 , oldHeight = box.innerHeight()
