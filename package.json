@@ -1,0 +1,22 @@
+{
+  "name": "autogrow",
+  "version": "1.0.0",
+  "description": "Does the autogrow thing",
+  "main": "autogrow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RFP365/autogrow.git"
+  },
+  "keywords": [
+    "autogrow"
+  ],
+  "author": "RFP365",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RFP365/autogrow/issues"
+  },
+  "homepage": "https://github.com/RFP365/autogrow#readme"
+}
